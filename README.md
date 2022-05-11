@@ -1,3 +1,3 @@
-# **Olá eu sou Rômulo e estou criando conta no github.** 
+# Quem sou eu:
 
-link [google](www.google.com)
+Olá eu sou **Rômulo**, estou criando um perfil no _Github_.
