@@ -1,3 +1,3 @@
 # Quem sou eu:
 
-Olá eu sou **Rômulo**, estou criando um perfil no _Github_.
+Eu sou o **Rômulo** e estou iniciando aqui.
