@@ -1,3 +1,4 @@
-# Quem sou eu:
+# Quem sou eu
 
-Eu sou o **Rômulo** e estou iniciando aqui.
+Sou **Rômulo** e estou iniciando aqui no _Github_.
+
